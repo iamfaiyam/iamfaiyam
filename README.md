@@ -1,6 +1,6 @@
 ### About me :milky_way:
 
-Hey there, I'm Faiyam and I'm a Final Year Data Science Student @ UNSW. 
+Hey there, I'm Faiyam and I'm a Final Year Data Science Student @ UNSW 🎓 
 
 I have a passion for data and the technology we use to improve the world we live in :earth_asia:
 

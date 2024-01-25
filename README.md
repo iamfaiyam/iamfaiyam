@@ -4,7 +4,7 @@ Hey there, I'm Faiyam and I'm a Postgraduate student studying Data Science @ USY
 
 I have a passion for data and the technology we use to improve the world we live in :earth_asia:
 
-Currently a Data Management Graduate at Optus and self-employed private tutor. :writing_hand:
+Currently a Data Analytics Graduate at Optus and self-employed private tutor. :writing_hand:
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 

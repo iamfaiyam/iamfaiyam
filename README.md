@@ -1,10 +1,10 @@
 ### About me :milky_way:
 
-Hey there, I'm Faiyam and I'm a Postgraduate student studying Data Science @ USYD 🎓 
+Hey there, I'm Faiyam and I'm a Postgraduate Data Science student @ USYD 🎓 
 
 I have a passion for data and the technology we use to improve the world we live in :earth_asia:
 
-Currently a Data Analytics Graduate at Optus and self-employed private tutor. :writing_hand:
+Currently an Associate BI Analyst at Optus :writing_hand:
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
